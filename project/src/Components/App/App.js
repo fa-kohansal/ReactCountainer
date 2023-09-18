@@ -7,6 +7,3 @@ const App = () => {
 }
  
 export default App;
-<div>
-    <h1>hello-world</h1>
-</div>
